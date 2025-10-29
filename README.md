@@ -1,3 +1,3 @@
 # hello-github
 My first github repo
-Create By AmadSabel
+create By AmadSabel
